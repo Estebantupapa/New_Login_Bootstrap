@@ -25,19 +25,19 @@ A través de esta actividad los estudiantes:
 ## 📁 Css
 
 ```
-   └── style.css      → Hoja de estilos externa común a todas las páginas
-   └── style_form.css → Hoja de estilos formulario
+   📄 style.css      → Hoja de estilos externa común a todas las páginas
+   📄 style_form.css → Hoja de estilos formulario
 ```
 ## ├──📁 img/
-│ ├── imagen_slider1.webp # Imagen decorativa
-│ └── logo_gamer.png # Logo usado en la navbar
-│ ├── imagen_slider2.webp # Imagen decorativa
-│ ├── imagen_slider3.webp # Imagen decorativa
-│ ├── Pc-gamer-legendario-2025.jog # Imagen decorativa
-```
-## ├──📁 js/
-│ └── login.js # Validación de login (formulario, alertas)
-```
+   📄 imagen_slider1.webp # Imagen decorativa
+   📄 logo_gamer.png # Logo usado en la navbar
+   📄 imagen_slider2.webp # Imagen decorativa
+   📄 imagen_slider3.webp # Imagen decorativa
+   📄 Pc-gamer-legendario-2025.jog # Imagen decorativa
+ 
+ ## 📁 js/
+   📄 login.js # Validación de login (formulario, alertas)
+
 📄 index.html           → Página principal de Login  
 README.md # Documentación del proyecto
 

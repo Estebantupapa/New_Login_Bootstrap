@@ -28,7 +28,7 @@ A través de esta actividad los estudiantes:
    📄 style.css      → Hoja de estilos externa común a todas las páginas
    📄 style_form.css → Hoja de estilos formulario
 ```
-## ├──📁 img/
+## 📁 img
 ```
    📄 imagen_slider1.webp → Imagen decorativa
    📄 logo_gamer.png      → Logo usado en la navbar
